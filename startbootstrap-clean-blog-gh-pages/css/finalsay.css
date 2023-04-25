@@ -1,0 +1,20 @@
+ul{
+    font-size: 25px;
+}
+h2{
+    font-size: 40px;
+}
+ol{
+    font-size: 25px;
+    list-style-position: inside;
+}
+li{
+    font-size: 25px;
+}
+.post-subtitle{
+    font-size: 40px;
+}
+.post-title{
+    font-size: 40px;
+}
+
